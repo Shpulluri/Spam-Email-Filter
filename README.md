@@ -1,1 +1,3 @@
-# Spam-Email-Filter
+# Spam Email Detection Using Naive Bayes Filter
+
+This project implements a spam email detection system using the Naive Bayes algorithm. The system analyzes the content of emails and predicts whether they are spam or not based on the words used in the email. It builds a vocabulary of words seen in a dataset of emails, calculates the frequency of each word in the emails, and trains a Naive Bayes classifier to distinguish between spam and non-spam emails. The trained model achieves high accuracy in classifying emails as spam or non-spam, providing a useful tool for email filtering and cybersecurity.
